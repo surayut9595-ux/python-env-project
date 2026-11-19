@@ -1,0 +1,11 @@
+# Python Virtual Environment
+nw_dw_683020598-9/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
