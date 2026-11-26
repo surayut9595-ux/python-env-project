@@ -1,27 +1,11 @@
+# **Command Lines**
 
-# Python Environment Project
+- Create python env. with the name: .venv
+`python -m venv .venv`
 
-## Project Information
+``` python
+python -m venv .venv
+pip install -r requirements.txt
 
-- Project Name: nw_dw_683020598-9
-- Python Version: 3.14.2
-- Environment: Python Virtual Environment
-- Platform: GitHub Codespaces
-
-## Environment Setup
-
-Create Python Environment:
-
-```bash
-python3 -m venv nw_dw_683020598-9
+print('Hello word')
 ```
-
-Activate Environment:
-
-```bash
-source nw_dw_683020598-9/bin/activate
-```
-
-## Status
-
-Python Environment created and activated successfully.
